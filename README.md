@@ -39,13 +39,33 @@ The analysis was carried out using:
 * Visualization using dashboards (Excel)
 
 ## Key Insights
-* Speeding is the Leading Cause
-Speed_Violation consistently records the highest number of accidents.
-Indicates weak enforcement of speed regulations.
+* Speeding is the Leading Cause. Speed_Violation consistently records the highest number of accidents.
+* Indicates weak enforcement of speed regulations.
 
-* Human Behavior is the Biggest Risk Factor
-
-## Major causes linked to driver behavior include:
+ ## Human Behavior is the Biggest Risk Factor
+ Major causes linked to driver behavior include:
 * Traffic Light Violation
 * Wrong Overtaking
 * Dangerous Driving
+
+## Recommendations
+* Strengthen Law Enforcement
+* Enforce speed limits strictly
+* Penalize traffic violations (phone use, overtaking)
+
+## Improve Road Infrastructure
+* Fix damaged roads
+* Install proper signage and lighting
+* Remove road obstructions promptly
+
+## Enforce Vehicle Safety Checks
+* Mandatory vehicle inspections
+* Ban unroadworthy vehicles
+
+## Public Awareness Campaigns
+* Educate drivers on safe driving practices
+* Promote defensive driving culture
+
+## Address Driver Fatigue
+* Regulate long-distance driving hours
+* Encourage rest breaks for drivers
