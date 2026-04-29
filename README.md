@@ -29,3 +29,11 @@
 * Pedestrian_Wrong_Use → Pedestrian-related causes
 * Fatigue → Driver tiredness
 * Traffic_Light_Violation → Ignoring signals
+
+## Methodology
+The analysis was carried out using:
+
+* Data cleaning and transformation in Excel
+* Aggregation of accident counts by cause and state
+* Exploratory Data Analysis (EDA)
+* Visualization using dashboards (Excel)
